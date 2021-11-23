@@ -1,4 +1,4 @@
-public class Multi_01
+public class Multi01
 {
     public static void main(String[] args) {
         Thread obj =Thread.currentThread();
